@@ -42,7 +42,7 @@ MLQK是一个针对Minecraft基岩版（Bedrock Edition）的启动器，提供�
 如有问题或建议，请通过以下方式联系我们：
 
 - 提交GitHub Issue
-- 电子邮件：[您的邮箱]
+- 电子邮件：[]
 
 ---
 
