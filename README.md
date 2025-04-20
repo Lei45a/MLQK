@@ -4,6 +4,9 @@ MLQK 是一款功能强大的《我的世界基岩版》启动器，为玩家提
 
 ![MLQK启动器](resources/images/Logo.png)
 
+## 下载
+请直接下载MLQK.zip文件，而不是源代码。
+
 ## 核心功能
 
 ### 游戏启动与优化
@@ -76,3 +79,4 @@ MLQK 是一款功能强大的《我的世界基岩版》启动器，为玩家提
 ## 免责声明
 
 MLQK是一个非官方的《我的世界》启动器，与Mojang Studios和Microsoft没有从属关系。Minecraft是Mojang Studios的商标。 
+   
