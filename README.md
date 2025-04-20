@@ -1,6 +1,6 @@
 # MLQK - 我的世界基岩版启动器
 
-MLQK (Minecraft Launcher for Quality Experience) 是一款功能强大的《我的世界基岩版》启动器，为玩家提供丰富的游戏管理功能和流畅的用户体验。
+MLQK 是一款功能强大的《我的世界基岩版》启动器，为玩家提供丰富的游戏管理功能和流畅的用户体验。
 
 ![MLQK启动器](resources/images/Logo.png)
 
